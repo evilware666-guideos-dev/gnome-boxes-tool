@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30998526/README.md)
 
 # GNOME‑Boxes Tool  
 

@@ -1,0 +1,23 @@
+[Desktop Entry]
+Type=Application
+Name=GNOME‑Boxes Tool
+Name[de]=GNOME‑Boxes Tool
+Comment=Grafisches Installations- und Verwaltungstool für GNOME Boxes
+Comment[de]=Grafisches Installations- und Verwaltungstool für GNOME Boxes
+Exec=/usr/bin/gnome-boxes-tool
+Icon=gnome-boxes-tool
+Terminal=false
+Categories=System;Utility;Settings;
+Keywords=Virtualisierung;GNOME;Boxes;KVM;QEMU;VM;Libvirt;
+StartupNotify=true
+X-GNOME-UsesNotifications=true
+
+# Wayland/X11 Kompatibilität
+X-GNOME-BuildSystem=python
+X-GNOME-SingleWindow=true
+X-GNOME-Gettext-Domain=gnome-boxes-tool
+
+# Für AppStream (Software-Center)
+X-AppInstall-Package=gnome-boxes-tool
+X-AppInstall-Section=system
+
