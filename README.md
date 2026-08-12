@@ -1,7 +1,7 @@
 
 # GNOME‑Boxes Tool  
 
-### Grafische Installation, Deinstallation & Diagnose für Ubuntu/Debian  
+### Grafische Installation/Deinstallation- und Verwaltung-Tool für Gnome-Boxes
 
 ## Version 1.0 
 
@@ -67,7 +67,7 @@ Alle Ergebnisse werden farblich markiert (OK, Warnung, Fehler).
 ## 🚀 Installation des Tools
 
 ```bash
-python3 gnome_boxes_tool.py
+python3 gnome-boxes-tool.py
 ```
 
 Keine zusätzlichen Abhängigkeiten notwendig — alles wird über Python + GTK4 bereitgestellt.
