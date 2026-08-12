@@ -1,7 +1,7 @@
 
 # GNOME‑Boxes Tool  
 
-### Grafische Installation/Deinstallation- und Verwaltung-Tool für Gnome-Boxes
+### Grafisches Installation/Deinstallation- und Verwaltung-Tool für Gnome-Boxes
 
 ## Version 1.0 
 
